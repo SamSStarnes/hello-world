@@ -1,2 +1,3 @@
 # hello-world
 Sam Starnes hello-world repository 
+I am currently a second-year student at the University of Iowa studying Business Analatyics and Information Systems in the Tippie College of Business, as well as pursuing an SRM minor through the College of Liberal Arts and Sciences. I have always been intrigued by numbers and statistics because of my upbringing in sports so i would like to do something that pairs the both of these interests together as that is where my strongest passions lie ut I know how competitive that market is so I can never be certain I will be able to secure a spot within this industry.
